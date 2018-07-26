@@ -12,8 +12,11 @@ Thanks for contributing! Tutorial in this list should provide a guided path for 
 
 ### Category
 * [ ] 3D Renderer
+* [ ] Augmented Reality
+* [ ] BitTorrent Client
 * [ ] Blockchain / Cryptocurrency
 * [ ] Bot
+* [ ] Command-Line Tool
 * [ ] Database
 * [ ] Docker
 * [ ] Emulator
@@ -23,9 +26,14 @@ Thanks for contributing! Tutorial in this list should provide a guided path for 
 * [ ] Network Stack
 * [ ] Neural Network
 * [ ] Operating System
+* [ ] Physics Engine
 * [ ] Programming Language
 * [ ] Regex Engine
+* [ ] Search Engine
 * [ ] Shell
 * [ ] Template Engine
+* [ ] Visual Recognition System
+* [ ] Voxel Engine
+* [ ] Web Search Engine
 * [ ] Web Server
 * [ ] Uncategorized
